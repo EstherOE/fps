@@ -1,0 +1,8 @@
+WASD- The movment of the player
+Space- Jump
+Double Gun
+x - left Gun
+c - right Gun
+
+Single Gun
+x-left Gun
